@@ -1,7 +1,7 @@
 # jEye
 Ocular biomechanical model
 
-The model consistes of a skull, with symmetrically placed eyes (left and right). Each eye has six extraocular muscles attached to it.
+The model includes a skull, with symmetrically placed eyes (left and right). Each eye has six extraocular muscles attached to it.
 
 ## Citing this work
 
